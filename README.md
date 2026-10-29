@@ -14,7 +14,7 @@ Just download the ZIP file from here - click the provided link and then the Down
 
 <img src="images/download_raw.png" alt="Download raw file icon">
 
-and copy the file to the scripts subfolder in your QGIS user profile - the path is usually like this:
+and unpack the file to the scripts subfolder in your QGIS user profile - the path is usually like this:
 
 Windows: %APPDATA%\QGIS\QGIS3\profiles\default\python\plugins
 
