@@ -1,9 +1,5 @@
 # QGIS-Plugins
 
-Various plugins for QGIS
-
-
-# QGIS-Processing-tools
 Here you will find various plugins for the QGIS 3.x (did not tested it in QGIS4 yet). The plugins were created in good faith, primarily to make the work of users in the field of citizen radioactivity measurements more comfortable.
 
 The functionality of the plugins was tested on QGIS 3.44 Solothurn (LTR release) on Windows and Kubuntu GNU/Linux.
