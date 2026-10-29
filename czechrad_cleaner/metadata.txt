@@ -1,0 +1,9 @@
+[general]
+name=CzechRad LOG cleaner
+qgisMinimumVersion=3.0
+description=Interactive tool to clean Safecast / CzechRad log points (HDOP & low speed)
+version=1.0
+author=Jan Helebrant & AI Collaborator
+about=Detects and cleans high HDOP GPS errors and low speed stop clusters.
+category=Plugins
+experimental=False
