@@ -36,3 +36,7 @@ Interactive tool to clean Safecast / CzechRad log points (HDOP & low speed).
 * Implemented changes to avoid from crashing QGIS when no valid Safecast/CzechRad layer is selected
 * Embedded default symbology (dose rate classes)
 * Known bugs: current version still unable to delete the points - you need to use RadiationToolbox button for this task
+
+Todo:
+* enable deleting data
+* implement zooming to selected features after going to next step
